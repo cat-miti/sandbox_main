@@ -1,0 +1,3 @@
+[submodule "sandbox_submodule"]
+	path = sandbox_submodule
+	url = https://github.com/cat-miti/sandbox_submodule.git
